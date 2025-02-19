@@ -1,0 +1,4 @@
+17;the correct shift amount for this message is seventeen
+24;each letter in the plaintext is replaced by a letter some fixed number of positions down the alphabet in caesar cipher
+12;messages encrypted by a public key can only be decrypted by the associated private key in the key pair public key can be shared private key must be kept secret
+25;using secret key cryptography when sender and receiver agree on a share secret can send messages on a medium that can be taped without worrying about eavesdroppers this is the classic use of cryptography
